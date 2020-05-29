@@ -4,6 +4,11 @@ README.md
 
 This repository is intended to contain sample code from python projects done for financial risk management that will be repeated over time.
 
+I am still determining if we need to do these snippets in a jupyter notebook or just as source code.
+May need a tutorial section first as a notebook and then the source code in each of the subdirectories
+
+For now, include a notebooks directory and add one tutorial for each. The snippets themselves will be included in the base directory
+
 #### Directories
 ##### Python Fundamental Objects
 - dictionaries: dictionaries are a fundamental object in python and they are used with higher level packages (pandas, numpy, matplotlib, sklearn, etc.)
